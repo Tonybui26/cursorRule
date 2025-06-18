@@ -24,9 +24,10 @@ Use declarative JSX.
 
 UI and Styling
 
-Use DaisyUI and Tailwind CSS for components and styling.
+Use Tailwind Css for components and styling.
 Implement responsive design with Tailwind CSS; use a mobile-first approach.
 Use lucide-react for icons if needed.
+Use Framer Motion for animations
 
 Performance Optimization
 
